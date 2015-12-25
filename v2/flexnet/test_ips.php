@@ -1,0 +1,1 @@
+Click <a href="testfile.rar">here</a> to test our network speed.
